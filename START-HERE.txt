@@ -1,0 +1,6 @@
+1) Install Node.js LTS, JDK 17+, and Apache Maven.
+2) Open this folder in VS Code.
+3) Backend terminal: cd backend ; mvn spring-boot:run
+4) Open a second terminal: cd frontend ; npm install ; npm run dev
+5) Open http://localhost:5173.
+See README.md for optional MySQL, GitHub and deployment instructions.
